@@ -1,0 +1,62 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/K-14-11-2022.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Stormunblessed/kamy-cs3",
+        "fileSize": 47472,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "KamyrollDEProvider",
+        "description": "Schauen Sie sich alle Crunchyroll-Anime \u00fcber die Kamyroll-API an. Dieser Anbieter zeigt nur Anime mit deutschen Untertiteln/Synchronisationen.",
+        "url": "https://raw.githubusercontent.com/Stormunblessed/kamy-cs3/builds/KamyrollDEProvider.cs3",
+        "name": "KamyrollDEProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/K-14-11-2022.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Stormunblessed/kamy-cs3",
+        "fileSize": 47533,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
+        "internalName": "KamyrollENProvider",
+        "description": "Watch crunchyroll through Kamyroll API, this extension will only display english dubbed/hardsubbed anime",
+        "url": "https://raw.githubusercontent.com/Stormunblessed/kamy-cs3/builds/KamyrollENProvider.cs3",
+        "name": "KamyrollENProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/K-14-11-2022.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Stormunblessed/kamy-cs3",
+        "fileSize": 47348,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
+        "internalName": "KamyrollESProvider",
+        "description": "Observa todos los animes de crunchyroll a trav\u00e9s de la API Kamyroll, este proveedor solo mostrar\u00e1 anime subtitulado/doblado en espa\u00f1ol",
+        "url": "https://raw.githubusercontent.com/Stormunblessed/kamy-cs3/builds/KamyrollESProvider.cs3",
+        "name": "KamyrollESProvider"
+    }
+]
